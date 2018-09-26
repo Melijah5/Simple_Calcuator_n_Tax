@@ -1,0 +1,27 @@
+C:\hahuclass\intro\MyNameCalculatorEliasSol\MyNameCalculatorElias\bin\Debug\MyNameCalculatorElias.exe.config
+C:\hahuclass\intro\MyNameCalculatorEliasSol\MyNameCalculatorElias\bin\Debug\MyNameCalculatorElias.exe
+C:\hahuclass\intro\MyNameCalculatorEliasSol\MyNameCalculatorElias\bin\Debug\MyNameCalculatorElias.pdb
+C:\hahuclass\intro\MyNameCalculatorEliasSol\MyNameCalculatorElias\obj\Debug\MyNameCalculatorElias.csprojResolveAssemblyReference.cache
+C:\hahuclass\intro\MyNameCalculatorEliasSol\MyNameCalculatorElias\obj\Debug\MyNameCalculatorElias.exe
+C:\hahuclass\intro\MyNameCalculatorEliasSol\MyNameCalculatorElias\obj\Debug\MyNameCalculatorElias.pdb
+C:\Users\Eli\Desktop\MyNameCalculatorEliasSol\MyNameCalculatorElias\bin\Debug\MyNameCalculatorElias.exe.config
+C:\Users\Eli\Desktop\MyNameCalculatorEliasSol\MyNameCalculatorElias\obj\Debug\MyNameCalculatorElias.exe
+C:\Users\Eli\Desktop\MyNameCalculatorEliasSol\MyNameCalculatorElias\obj\Debug\MyNameCalculatorElias.pdb
+C:\Users\Eli\Desktop\MyNameCalculatorEliasSol\MyNameCalculatorElias\bin\Debug\MyNameCalculatorElias.exe
+C:\Users\Eli\Desktop\MyNameCalculatorEliasSol\MyNameCalculatorElias\bin\Debug\MyNameCalculatorElias.pdb
+C:\Users\Eli\Desktop\MyNameCalculatorEliasSol\MyNameCalculatorElias\obj\Debug\MyNameCalculatorElias.csprojResolveAssemblyReference.cache
+C:\Users\Eli\Desktop\calculator C#\MyNameCalculatorEliasSol\MyNameCalculatorElias\bin\Debug\MyNameCalculatorElias.exe.config
+C:\Users\Eli\Desktop\calculator C#\MyNameCalculatorEliasSol\MyNameCalculatorElias\obj\Debug\MyNameCalculatorElias.exe
+C:\Users\Eli\Desktop\calculator C#\MyNameCalculatorEliasSol\MyNameCalculatorElias\obj\Debug\MyNameCalculatorElias.pdb
+C:\Users\Eli\Desktop\calculator C#\MyNameCalculatorEliasSol\MyNameCalculatorElias\bin\Debug\MyNameCalculatorElias.exe
+C:\Users\Eli\Desktop\calculator C#\MyNameCalculatorEliasSol\MyNameCalculatorElias\bin\Debug\MyNameCalculatorElias.pdb
+C:\Users\Eli\Desktop\calculator C#\MyNameCalculatorEliasSol\MyNameCalculatorElias\obj\Debug\MyNameCalculatorElias.csprojResolveAssemblyReference.cache
+C:\Users\Eli\Desktop\Assignments\calculator C#\MyNameCalculatorEliasSol\MyNameCalculatorElias\bin\Debug\MyNameCalculatorElias.exe.config
+C:\Users\Eli\Desktop\Assignments\calculator C#\MyNameCalculatorEliasSol\MyNameCalculatorElias\bin\Debug\MyNameCalculatorElias.exe
+C:\Users\Eli\Desktop\Assignments\calculator C#\MyNameCalculatorEliasSol\MyNameCalculatorElias\bin\Debug\MyNameCalculatorElias.pdb
+C:\Users\Eli\Desktop\Assignments\calculator C#\MyNameCalculatorEliasSol\MyNameCalculatorElias\obj\Debug\MyNameCalculatorElias.csprojResolveAssemblyReference.cache
+C:\Users\Eli\Desktop\Assignments\calculator C#\MyNameCalculatorEliasSol\MyNameCalculatorElias\obj\Debug\MyNameCalculatorElias.exe
+C:\Users\Eli\Desktop\Assignments\calculator C#\MyNameCalculatorEliasSol\MyNameCalculatorElias\obj\Debug\MyNameCalculatorElias.pdb
+C:\Users\Eli\Desktop\tax\MyNameCalculatorElias\bin\Debug\MyNameCalculatorElias.exe.config
+C:\Users\Eli\Desktop\tax\MyNameCalculatorElias\obj\Debug\MyNameCalculatorElias.exe
+C:\Users\Eli\Desktop\tax\MyNameCalculatorElias\obj\Debug\MyNameCalculatorElias.pdb
